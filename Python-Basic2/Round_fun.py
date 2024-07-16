@@ -1,0 +1,10 @@
+#THIS PROGRAM FOR SHOWING THE WORKING OF ROUNDFUNCTION..
+print(1.2)
+print(round(1.2))
+print(round(1.234,2))
+print(round(9,2))
+print(round(9.123,1))
+print(round(267,-1))
+print(round(267,-2))
+print(round(267,-3))
+print(round(540,-3))
